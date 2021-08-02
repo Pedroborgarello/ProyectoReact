@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@400;700&display=swap');
+
+
+.navBar{
+    font-family: 'Teko', sans-serif;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.navTitle{
+    font-size: 40px;
+}
