@@ -10,4 +10,32 @@
 
 .navTitle{
     font-size: 40px;
+    color: rgb(222, 211, 0) !important;
+}
+
+.nav-link{
+   color: rgb(174, 165, 2) !important; 
+}
+.nav-link:hover{
+    color: rgb(222, 211, 0) !important;
+}
+
+.cartWidget{
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.cartWidget:hover{
+    transform: scale(1.05);
+}
+
+.banner{
+    background-color: rgb(181, 181, 181);
+}
+
+.textoBanner{
+    font-family: 'Teko', sans-serif;
+    font-size: 25px;
+    text-transform: uppercase;
+    text-align: center;
 }
